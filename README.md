@@ -1,5 +1,5 @@
 # DATE: 
-# Read-from-CSV
+# EXP.NO.12 Read-from-CSV
 
 ## AIM:
 To write a python program for reading the csv file content.
@@ -18,6 +18,7 @@ Using regression formula print the result.
 
 ## PROGRAM:
 ```
+# Python Program for reading the csv file content.
 # Developed By: MOHAN S
 # Register Number: 212223240094
 
