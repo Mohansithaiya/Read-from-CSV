@@ -29,8 +29,10 @@ print(df.tail())
 print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ```
+
 ## OUTPUT:
-![alt text](output.png)
+![image](https://github.com/user-attachments/assets/95a579e2-1a67-441e-91df-87a4e702f448)
+
 
 ## RESULT:
 Thus the program is written to read the csv file.
